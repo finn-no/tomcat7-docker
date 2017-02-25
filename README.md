@@ -1,6 +1,6 @@
-# finntech/tomcat8
+# finntech/tomcat7
 
-A base image for deploying a single [Java WAR file](https://en.wikipedia.org/wiki/WAR_(file_format)) into a [Tomcat 8](http://tomcat.apache.org/) servlet container.
+A base image for deploying a single [Java WAR file](https://en.wikipedia.org/wiki/WAR_(file_format)) into a [Tomcat 7](http://tomcat.apache.org/) servlet container.
 
 This image is located [at Docker Hub](https://hub.docker.com/r/finntech/tomcat8/).
 
